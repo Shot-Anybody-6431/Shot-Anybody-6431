@@ -4,7 +4,7 @@ Hi there, I'm Shot-Anybody-6431 and this repository contains projects of the art
 
 ## Latest Project
 
-The latest project is for the article "[Autodistill: A new way to create CV models](https://www.reddit.com/r/developersIndia/comments/16v4t69/autodistill_a_new_way_to_create_cv_models/)" ([Sept 29 2023]).
+The latest project is for the article "[Autodistill: A new way to create CV models](https://www.reddit.com/r/developersIndia/comments/16v4t69/autodistill_a_new_way_to_create_cv_models/)" Sept 29 2023.
 
 ## Contributing
 
