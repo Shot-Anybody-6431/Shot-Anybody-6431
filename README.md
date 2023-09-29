@@ -1,6 +1,6 @@
 # Reddit Articles Projects
 
-This repository contains projects of the articles written in Reddit. I try to write and create a new post and then try and make a project on the topic
+Hi there, I'm Shot-Anybody-6431 and this repository contains projects of the articles written in Reddit. I try to write and create a new post and then try and make a project on the topic
 
 ## Latest Project
 
